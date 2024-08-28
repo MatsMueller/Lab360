@@ -851,7 +851,7 @@ var APP_DATA = {
         {
           "yaw": 0.45130154285659785,
           "pitch": 0.4158510327583862,
-          "title": "WehrTitle",
+          "title": "Wehrhöhe",
           "text": "Die Wehrhöhe im Unterwasser ist variabel einstellbar. Auf dem obersten Wehrelement wird eine L-Profileiste angebracht, die beim Abfluss für eine Hinterlüftung sorgt."
         }
       ]
