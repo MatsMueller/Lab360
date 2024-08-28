@@ -437,8 +437,7 @@ var APP_DATA = {
           "yaw": 0.2897517486800041,
           "pitch": 0.40816824946316643,
           "title": "Einlauf",
-          "text": "Ein 30 cm langes Rohrpaket im Einlaufbereich des Leitkanals beruhigt und richtet das einströmende Wasser aus. Ein integrierter Sensor misst die Wassertemperatur, die über ein Arduino-System erfasst und per USB übertragen wird. Eine frei bewegliche Styroporplatte, an zwei Ketten aufgehängt, sorgt für eine gleichmäßige Glättung der Wasseroberfläche."
-
+          "text": "Ein 30 cm langes Rohrpaket im Einlaufbereich des Leitkanals beruhigt und richtet das einströmende Wasser aus. Ein integrierter Sensor misst die Wassertemperatur, die über ein Arduino-System erfasst und per USB übertragen wird. Eine frei bewegliche Styroporplatte, an zwei Ketten aufgehängt, sorgt für eine gleichmäßige Glättung der Wasseroberfläche. Ein Sensor zur Messung der Lufttemperatur wurde in einer Höhe von 2 Metern installiert."
         }
       ]
     },
@@ -594,20 +593,22 @@ var APP_DATA = {
         {
           "yaw": 0.17600208121883476,
           "pitch": -0.0012144170302992308,
-          "title": "ZWDPCTitel<br>",
-          "text": "ZWDPCText"
+          "title": "Monitoring",
+          "text": "Der Computer überwacht das Gesamtsystem, einschließlich Durchfluss, Luft- und Wassertemperatur, Wasserstandshöhen und Wägung des Auffangbehälters. Die Daten werden in Echtzeit angezeigt und können als Roh- oder gefilterte Daten gespeichert werden."
         },
         {
           "yaw": -0.4736025876257859,
           "pitch": 0.009965083878100245,
-          "title": "LVPCTitle",
-          "text": "LVPCText"
+          "title": "Versuchsdurchführung",
+          "text": "Die Versuche werden mit dem MiniShaker-System der Firma LaVision durchgeführt, das für 3D-Strömungsmessungen entwickelt wurde. Das System ermöglicht hochpräzise Analysen von komplexen Strömungsphänomenen, insbesondere bei turbulenten Strömungen, durch den Einsatz von Tomographischer PIV und dem Shake-the-Box-Algorithmus. Mit der DaVis-Software von LaVision können 3D-Messungen durchgeführt werden. Der MiniShaker ist kompakt, mit vier integrierten Kameras, und lässt sich schnell anschließen."
+
         },
         {
           "yaw": 0.8771752486525468,
           "pitch": 0.5792707094893643,
-          "title": "CalibTitle",
-          "text": "CalibText"
+          "title": "Kalibrierung",
+          "text": "Für präzise Messungen sind verschiedene Kalibrierungstargets und Verfahren zur Selbstkalibrierung verfügbar, die 3D- und stereoskopische Kalibrierungsfehler korrigieren. Funktionen umfassen automatische Markererkennung, Einzelbildkalibrierung und Kompensation starker Verzerrungen."
+
         }
       ]
     },
