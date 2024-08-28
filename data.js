@@ -732,9 +732,21 @@ var APP_DATA = {
           "yaw": 0.02144524883423138,
           "pitch": 0.04210517145580184,
           "title": "Drosselorgan (Versuch)",
-          "text": "Die Abflusssteuerung des Systems erfolgt passiv, ohne Fremdenergie. Passive Drosselorgane haben keine beweglichen Teile und einen konstanten Durchflussbeiwert, wodurch der Ausfluss mit der Quadratwurzel des Oberwasserstandes zunimmt. Zu Beginn des Versuchs werden der Zufluss und die Wehrhöhe eingestellt, bis sich ein stationärer Zustand und ein Druckgefälle (Delta H) im Bereich des Drosselorgans einstellen. Mit dem MiniShaker werden Partikelbewegungen erfasst, die in der Nachbearbeitung zur Visualisierung von Bahnlinien und Geschwindigkeiten im Fluid genutzt werden."
-
-        }
+          "text": `
+			  <div>
+				<p>Die Abflusssteuerung des Systems erfolgt passiv, ohne Fremdenergie. Passive Drosselorgane haben keine beweglichen Teile und einen konstanten Durchflussbeiwert, wodurch der Ausfluss mit der Quadratwurzel des Oberwasserstandes zunimmt. Zu Beginn des Versuchs werden der Zufluss und die Wehrhöhe eingestellt, bis sich ein stationärer Zustand und ein Druckgefälle (Delta H) im Bereich des Drosselorgans einstellen. Mit dem MiniShaker werden Partikelbewegungen erfasst, die in der Nachbearbeitung zur Visualisierung von Bahnlinien und Geschwindigkeiten im Fluid genutzt werden.
+					</p>
+				
+				<br> <!-- Leerzeile zwischen Text und Bildern -->
+				
+				<h3>Foto zur Veranschaulichung</h3>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG11/DeltaH.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+			  </div>
+			`
+		}
       ]
     },
     {
