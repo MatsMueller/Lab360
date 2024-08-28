@@ -897,8 +897,21 @@ var APP_DATA = {
           "yaw": 0.45130154285659785,
           "pitch": 0.4158510327583862,
           "title": "Wehrhöhe",
-          "text": "Die Wehrhöhe im Unterwasser ist variabel einstellbar. Auf dem obersten Wehrelement wird eine L-Profileiste angebracht, die beim Abfluss für eine Hinterlüftung sorgt."
-        }
+          "text": `
+			  <div>
+				<p>Die Wehrhöhe im Unterwasser ist variabel einstellbar. Auf dem obersten Wehrelement wird eine L-Profileiste angebracht, die beim Abfluss für eine Hinterlüftung sorgt.
+					</p>
+				
+				<br> <!-- Leerzeile zwischen Text und Bildern -->
+				
+				<h3>Foto zur Veranschaulichung</h3>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG14/Wehr.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+			  </div>
+			`
+		}
       ]
     },
     {
