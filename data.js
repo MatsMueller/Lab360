@@ -268,7 +268,7 @@ var APP_DATA = {
         {
           "yaw": 0.3919764772017107,
           "pitch": 0.245620319226596,
-          "title": "Drosselgerät",
+          "title": "Drosselgerät (Zufluss)",
           "text": "Ein Drosselgerät regelt den gewünschten Abfluss, indem die Drossel geöffnet oder geschlossen wird."
 
         }
@@ -594,13 +594,13 @@ var APP_DATA = {
           "yaw": 0.17600208121883476,
           "pitch": -0.0012144170302992308,
           "title": "Monitoring",
-          "text": "Der Computer überwacht das Gesamtsystem, einschließlich Durchfluss, Luft- und Wassertemperatur, Wasserstandshöhen und Wägung des Auffangbehälters. Die Daten werden in Echtzeit angezeigt und können als Roh- oder gefilterte Daten gespeichert werden."
+          "text": "Dieser Computer überwacht das Gesamtsystem, einschließlich Durchfluss, Luft- und Wassertemperatur, Wasserstandshöhen und Wägung des Auffangbehälters. Die Daten werden in Echtzeit angezeigt und können als Roh- oder gefilterte Daten gespeichert werden."
         },
         {
           "yaw": -0.4736025876257859,
           "pitch": 0.009965083878100245,
           "title": "Versuchsdurchführung",
-          "text": "Die Versuche werden mit dem MiniShaker-System der Firma LaVision durchgeführt, das für 3D-Strömungsmessungen entwickelt wurde. Das System ermöglicht hochpräzise Analysen von komplexen Strömungsphänomenen, insbesondere bei turbulenten Strömungen, durch den Einsatz von Tomographischer PIV und dem Shake-the-Box-Algorithmus. Mit der DaVis-Software von LaVision können 3D-Messungen durchgeführt werden. Der MiniShaker ist kompakt, mit vier integrierten Kameras, und lässt sich schnell anschließen."
+          "text": "Dieser Computer ist für die Versuchsdurchführung mit dem MiniShaker-System der Firma LaVision. Das MiniShaker-System wurde für 3D-Strömungsmessungen entwickelt. Es ermöglicht hochpräzise Analysen von komplexen Strömungsphänomenen, insbesondere bei turbulenten Strömungen, durch den Einsatz von Tomographischer PIV und dem Shake-the-Box-Algorithmus. Mit der DaVis-Software von LaVision können 3D-Messungen durchgeführt werden."
 
         },
         {
@@ -668,8 +668,8 @@ var APP_DATA = {
         {
           "yaw": -0.12819384099036846,
           "pitch": -0.4219173443008959,
-          "title": "USSTitle",
-          "text": "USSText"
+          "title": "Wasserstandsmessung",
+          "text": "Die Messung der Wassertiefen erfolgt mittels Ultraschallsensoren der Firmen General Acoustics und microsonic GmbH. Die Datenübertragung zum PC erfolgt über einen 24-Bit-8-Kanal-Universalmessverstärker der Firma HBM."
         },
         {
           "yaw": 0.723598074304622,
@@ -680,26 +680,27 @@ var APP_DATA = {
         {
           "yaw": 0.46751472163388996,
           "pitch": -0.6726029710214512,
-          "title": "LEDCLTitle",
-          "text": "LEDCLText"
-        },
+          "title": "LED Lichtleisten",
+          "text": "Die LEDs sorgen für eine gleichmäßige weiße Ausleuchtung des Untersuchungsbereichs, die zur Kalibrierung des Volumens mit der Kalibrierscheibe erforderlich ist.<br><br>Die Kalibrierscheibe wird in verschiedenen Positionen fotografiert, wobei die Entfernung zur Kamera erfasst wird.<br><br>Die Fotos zeigen die Kalibrierscheibe im Hauptstrahlbereich der LED:<br>1. Position vorderer Rand<br>2. Position Mitte<br>3. Position hinterer Rand."
+		},
         {
           "yaw": -0.634627248010533,
           "pitch": 0.4364393887439668,
-          "title": "CAMTitel",
-          "text": "CAMText"
+          "title": "MiniShaker",
+          "text": "Der MiniShaker ist ein ausgerichtetes Multisensorsystem in einem kompakten Gehäuse für schnelle und einfache volumetrische Strömungsmessung."
         },
         {
           "yaw": 0.09092416789046354,
           "pitch": 0.8317644182724884,
-          "title": "LinerTitle",
-          "text": "LinerText"
+          "title": "Linearschiene",
+          "text": "Linearschiene für eine gleichmäßige Bewegung der Kamera orthogonal zum Untersuchungsbereich."
         },
         {
           "yaw": 0.02144524883423138,
           "pitch": 0.04210517145580184,
-          "title": "BlendeTitle",
-          "text": "BlendeText"
+          "title": "Drosselorgan (Versuch)",
+          "text": "Die Abflusssteuerung des Systems erfolgt passiv, ohne Fremdenergie. Passive Drosselorgane haben keine beweglichen Teile und einen konstanten Durchflussbeiwert, wodurch der Ausfluss mit der Quadratwurzel des Oberwasserstandes zunimmt. Zu Beginn des Versuchs werden der Zufluss und die Wehrhöhe eingestellt, bis sich ein stationärer Zustand und ein Druckgefälle (Delta H) im Bereich des Drosselorgans einstellen. Mit dem MiniShaker werden Partikelbewegungen erfasst, die in der Nachbearbeitung zur Visualisierung von Bahnlinien und Geschwindigkeiten im Fluid genutzt werden."
+
         }
       ]
     },
@@ -747,8 +748,8 @@ var APP_DATA = {
         {
           "yaw": 0.6451643005179406,
           "pitch": 0.42507546170284094,
-          "title": "LEDLVTitle",
-          "text": "LEDLVText"
+          "title": "LED-Flashlight",
+          "text": "Die LED-Flashlight 300 besteht aus 72 Hochleistungs-LEDs auf einer Fläche von 300 x 100 mm² und bietet eine kompakte, leicht transportierbare Lösung für Experimente mit Hochgeschwindigkeitskameras. Es erzeugt eine gleichmäßige Helligkeit und für eine hohe Bildqualität. Die LEDs können für kurze, intensive Lichtimpulse oder im Dauerbetrieb verwendet werden."
         }
       ]
     },
@@ -851,7 +852,7 @@ var APP_DATA = {
           "yaw": 0.45130154285659785,
           "pitch": 0.4158510327583862,
           "title": "WehrTitle",
-          "text": "WehrText"
+          "text": "Die Wehrhöhe im Unterwasser ist variabel einstellbar. Auf dem obersten Wehrelement wird eine L-Profileiste angebracht, die beim Abfluss für eine Hinterlüftung sorgt."
         }
       ]
     },
