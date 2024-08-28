@@ -460,12 +460,12 @@ var APP_DATA = {
 				
 				<h3>Videos zur Veranschaulichung</h3>
 				
-				<video controls style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				<video controls loop style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
 				  <source src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG07/1.mp4" type="video/mp4">
 				  Ihr Browser unterstützt das Video-Tag nicht.
 				</video>
 				
-				<video controls style="max-width: 100%; height: auto; display: block;">
+				<video controls loop style="max-width: 100%; height: auto; display: block;">
 				  <source src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG07/2.mp4" type="video/mp4">
 				  Ihr Browser unterstützt das Video-Tag nicht.
 				</video>
