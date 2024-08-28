@@ -381,8 +381,23 @@ var APP_DATA = {
           "yaw": 0.2653039951498073,
           "pitch": -0.29342658827088997,
           "title": "Dämpfung",
-          "text": "Das Wasser wird durch die Rohrleitung in den Einlaufbereich der Versuchsrinne geleitet. Zur Dämpfung von Schwingungen sind zwischen der Rohrleitung und der Aluminiumkonstruktion sowie am offenen Ende des Rohrs Gummiauflagen angebracht."
-
+          "text": `
+			  <div>
+				<p>Das Wasser wird durch die Rohrleitung in den Einlaufbereich der Versuchsrinne geleitet. Zur Dämpfung von Schwingungen sind zwischen der Rohrleitung und der Aluminiumkonstruktion sowie am offenen Ende des Rohrs Gummiauflagen angebracht.</p>
+				
+				<br> <!-- Leerzeile zwischen Text und Bildern -->
+				
+				<h3>Fotos zur Veranschaulichung</h3>
+				
+				<img src="https://github.com/MatsMueller/Lab360/blob/master/files/IMG06/1.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				
+				<img src="https://github.com/MatsMueller/Lab360/blob/master/files/IMG06/1.jpg" 
+					 alt="Foto 2" 
+					 style="max-width: 100%; height: auto; display: block;">
+			  </div>
+			`
         }
       ]
     },
