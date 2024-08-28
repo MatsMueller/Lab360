@@ -436,8 +436,9 @@ var APP_DATA = {
         {
           "yaw": 0.2897517486800041,
           "pitch": 0.40816824946316643,
-          "title": "RohrpaketTitle",
-          "text": "RohrpaketText"
+          "title": "Einlauf",
+          "text": "Ein 30 cm langes Rohrpaket im Einlaufbereich des Leitkanals beruhigt und richtet das einströmende Wasser aus. Ein integrierter Sensor misst die Wassertemperatur, die über ein Arduino-System erfasst und per USB übertragen wird. Eine frei bewegliche Styroporplatte, an zwei Ketten aufgehängt, sorgt für eine gleichmäßige Glättung der Wasseroberfläche."
+
         }
       ]
     },
