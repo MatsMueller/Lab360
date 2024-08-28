@@ -43,7 +43,10 @@ var APP_DATA = {
           "yaw": 0.6306197494447225,
           "pitch": 0.1871037614146438,
           "title": "AachenTitle",
-          "text": "AachenText"
+          "text": "Die Messsysteme der Firma LaVision wurden von der FH Aachen – University of Applied Sciences zur Verfügung gestellt. Ansprechpartner:
+					PD Prof. Dr.-Ing. habil. Daniel Bung
+					Fachbereich Bauingenieurwesen – Wasserbau
+					E-Mail: bung@fh-aachen.de"
         }
       ]
     },
