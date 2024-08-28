@@ -389,11 +389,11 @@ var APP_DATA = {
 				
 				<h3>Fotos zur Veranschaulichung</h3>
 				
-				<img src="https://github.com/MatsMueller/Lab360/blob/master/files/IMG06/1.jpg" 
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG06/1.jpg" 
 					 alt="Foto 1" 
 					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
 				
-				<img src="https://github.com/MatsMueller/Lab360/blob/master/files/IMG06/1.jpg" 
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG06/1.jpg" 
 					 alt="Foto 2" 
 					 style="max-width: 100%; height: auto; display: block;">
 			  </div>
