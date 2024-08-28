@@ -152,13 +152,13 @@ var APP_DATA = {
           "yaw": -0.16276772691074726,
           "pitch": 0.07367256799197719,
           "title": "Kreislauf",
-          "text": "Pumpenleistung:<br>3 Pumpen mit einer Gesamtförderleistung von etwa 100 l/s:<br>1. und 2. Pumpe (gold): je 25 l/s<br>3. Pumpe (schwarz): 50 l/s<br><br>Tiefbecken:<br>Die Versuchsrinne ist auf einer Unterkonstruktion aus Aluminiumträgern fixiert, wobei ihre Längs- und Querneigung nicht veränderbar ist. Wasser wird aus dem Tiefbecken (ca. 7 m³ Fassungsvolumen) in den Einströmbereich der Rinne gepumpt."
+          "text": "Pumpenleistung:<br>3 Pumpen mit einer Gesamtförderleistung von etwa 100 l/s:<br>1. und 2. Pumpe (gold): je 25 l/s<br>3. Pumpe (schwarz): 50 l/s<br><br>Die Versuchsrinne ist auf einer Unterkonstruktion aus Aluminiumträgern fixiert, wobei ihre Längs- und Querneigung nicht veränderbar ist. Wasser wird aus dem Tiefbecken (ca. 7 m³ Fassungsvolumen) in den Einströmbereich der Rinne gepumpt."
 		},
         {
           "yaw": 0.331591217024954,
           "pitch": 0.13730875694595213,
-          "title": "IBCTitle",
-          "text": "IBCText"
+          "title": "Auffangbehälter",
+          "text": "Zwischen dem Ende der Rinne und dem Tiefbecken wird das Wasser durch einen Auffangbehälter mit einem Fassungsvolumen von ca. 500 l geleitet. Der Behälter ist auf Wägezellen montiert und nicht mit der Rinne verbunden. Der Ablauf wird elektronisch über einen Arduino gesteuert."
         }
       ]
     },
