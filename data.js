@@ -36,17 +36,14 @@ var APP_DATA = {
         {
           "yaw": -0.6962545036663368,
           "pitch": 0.19639291239228385,
-          "title": "BUWTitle",
-          "text": "BUWText"
-        },
+          "title": "<strong>Bergische Universität Wuppertal</strong>",
+          "text": "Der Versuchsaufbau, die Durchführung und das Monitoring werden vom Lehr- und Forschungsgebiet Wasserwirtschaft und Wasserbau der Fakultät für Architektur und Bauingenieurwesen der Bergischen Universität Wuppertal betreut.<br><br><strong>Ansprechpartner:</strong><br>Univ.-Prof. Dr.-Ing. Andreas Schlenkhoff<br><a href='mailto:schlenkhoff@uni-wuppertal.de'>schlenkhoff@uni-wuppertal.de</a><br><br>Mats Müller (M.Sc.)<br><a href='mailto:matsmueller@uni-wuppertal.de'>matsmueller@uni-wuppertal.de</a>"
+		},
         {
           "yaw": 0.6306197494447225,
           "pitch": 0.1871037614146438,
           "title": "AachenTitle",
-          "text": "Die Messsysteme der Firma LaVision wurden von der FH Aachen – University of Applied Sciences zur Verfügung gestellt. Ansprechpartner:
-					PD Prof. Dr.-Ing. habil. Daniel Bung
-					Fachbereich Bauingenieurwesen – Wasserbau
-					E-Mail: bung@fh-aachen.de"
+          "text": "AachenText"
         }
       ]
     },
