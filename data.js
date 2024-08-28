@@ -212,8 +212,9 @@ var APP_DATA = {
         {
           "yaw": -0.18417857770653256,
           "pitch": 0.34963154229233595,
-          "title": "KugelschieberTitle",
-          "text": "KugelschieberText"
+          "title": "Kugelhahn",
+          "text": "Ein Kugelhahn ist eine Armatur mit einer durchbohrten Kugel als Absperrkörper und dient zur Regelung des Durchflusses."
+
         }
       ]
     },
@@ -267,8 +268,9 @@ var APP_DATA = {
         {
           "yaw": 0.3919764772017107,
           "pitch": 0.245620319226596,
-          "title": "DrosselTitle",
-          "text": "DrosselText"
+          "title": "Drosselgerät",
+          "text": "Ein Drosselgerät regelt den gewünschten Abfluss, indem die Drossel geöffnet oder geschlossen wird."
+
         }
       ]
     },
@@ -322,8 +324,9 @@ var APP_DATA = {
         {
           "yaw": 0.03695642456206194,
           "pitch": 0.17398971119170348,
-          "title": "MIDTitle",
-          "text": "MIDText"
+          "title": "Durchflussmesser (MID)",
+          "text": "Der OPTIFLUX 2000 ist ein magnetisch-induktiver Durchflussmesser (MID), der nach dem Faraday'schen Gesetz der elektromagnetischen Induktion arbeitet und den Durchfluss in ein elektrisches Signal umwandelt."
+
         }
       ]
     },
@@ -377,8 +380,9 @@ var APP_DATA = {
         {
           "yaw": 0.2653039951498073,
           "pitch": -0.29342658827088997,
-          "title": "RohrTitle",
-          "text": "RohrText"
+          "title": "Dämpfung",
+          "text": "Das Wasser wird durch die Rohrleitung in den Einlaufbereich der Versuchsrinne geleitet. Zur Dämpfung von Schwingungen sind zwischen der Rohrleitung und der Aluminiumkonstruktion sowie am offenen Ende des Rohrs Gummiauflagen angebracht."
+
         }
       ]
     },
@@ -583,8 +587,8 @@ var APP_DATA = {
         {
           "yaw": 1.2357564357480655,
           "pitch": 0.24486265430516596,
-          "title": "IFCTitel",
-          "text": "IRCText"
+          "title": "Durchflussmessung",
+          "text": "Der OPTIFLUX 2000 ist ein magnetisch-induktiver Messwertaufnehmer, der auf dem Faraday’schen Gesetz der elektromagnetischen Induktion basiert. Dieses Prinzip wird im Magnetisch-Induktiven Durchflussmesser (MID) angewendet, um den Durchfluss in ein elektrisches Signal umzuwandeln. In Verbindung mit dem Messumformer IFC 100 kann das Signal direkt angezeigt und zur weiteren Verarbeitung übertragen werden."
         },
         {
           "yaw": 0.17600208121883476,
