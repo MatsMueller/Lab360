@@ -452,8 +452,26 @@ var APP_DATA = {
           "yaw": 0.2897517486800041,
           "pitch": 0.40816824946316643,
           "title": "Einlauf",
-          "text": "Ein 30 cm langes Rohrpaket im Einlaufbereich des Leitkanals beruhigt und richtet das einströmende Wasser aus. Ein integrierter Sensor misst die Wassertemperatur, die über ein Arduino-System erfasst und per USB übertragen wird. Eine frei bewegliche Styroporplatte, an zwei Ketten aufgehängt, sorgt für eine gleichmäßige Glättung der Wasseroberfläche. Ein Sensor zur Messung der Lufttemperatur wurde in einer Höhe von 2 Metern installiert."
-        }
+          "text": `
+			  <div>
+				<p>Ein 30 cm langes Rohrpaket im Einlaufbereich des Leitkanals beruhigt und richtet das einströmende Wasser aus. Ein integrierter Sensor misst die Wassertemperatur, die über ein Arduino-System erfasst und per USB übertragen wird. Eine frei bewegliche Styroporplatte, an zwei Ketten aufgehängt, sorgt für eine gleichmäßige Glättung der Wasseroberfläche. Ein Sensor zur Messung der Lufttemperatur wurde in einer Höhe von 2 Metern installiert.</p>
+				
+				<br> <!-- Leerzeile zwischen Text und Videos -->
+				
+				<h3>Videos zur Veranschaulichung</h3>
+				
+				<video controls style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				  <source src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG07/1.mp4" type="video/mp4">
+				  Ihr Browser unterstützt das Video-Tag nicht.
+				</video>
+				
+				<video controls style="max-width: 100%; height: auto; display: block;">
+				  <source src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG07/2.mp4" type="video/mp4">
+				  Ihr Browser unterstützt das Video-Tag nicht.
+				</video>
+			  </div>
+			`
+		}
       ]
     },
     {
