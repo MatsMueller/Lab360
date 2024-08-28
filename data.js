@@ -393,7 +393,7 @@ var APP_DATA = {
 					 alt="Foto 1" 
 					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
 				
-				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG06/1.jpg" 
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG06/2.jpg" 
 					 alt="Foto 2" 
 					 style="max-width: 100%; height: auto; display: block;">
 			  </div>
