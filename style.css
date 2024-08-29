@@ -811,16 +811,16 @@ body.view-control-buttons .viewControlButton {
 
 /* Center is at margin-left: -20px */
 .viewControlButton-1 {
-  margin-left: -145px;
+  margin-left: -95px; /*-145*/
 }
 .viewControlButton-2 {
-  margin-left: -95px;
+  margin-left: -45px;	/*-95*/
 }
 .viewControlButton-3 {
-  margin-left: -45px;
+  margin-left: 5px;	/*-45*/
 }
 .viewControlButton-4 {
-  margin-left: 5px;
+  margin-left: 55px;		/*55*/
 }
 
 /*
