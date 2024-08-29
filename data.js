@@ -164,7 +164,7 @@ var APP_DATA = {
     },
     {
       "id": "3-img_03",
-      "name": "Pumpen (Rohrleitung)",
+      "name": "Pumpen",
       "levels": [
         {
           "tileSize": 256,
