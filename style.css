@@ -824,12 +824,8 @@ body.view-control-buttons .viewControlButton {
 }
 
 
-.viewControlButton-5 {
-  display: none;
-  margin-left: 105px;	//55
+/* Ensure buttons -5 and -6 are always hidden */
+.viewControlButton-5, .viewControlButton-6 {
+  display: none !important; /* Ensure they are always hidden */
+  margin-left: auto; /* You can keep margin-left for consistency, or remove if unnecessary */
 }
-.viewControlButton-6 {
-  display: none;
-  margin-left: 155px;	/105
-}
-
