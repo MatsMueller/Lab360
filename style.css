@@ -146,7 +146,7 @@ body.fullscreen-enabled #fullscreenToggle {
 }
 
 #autorotateToggle {
-  display: block;
+  display: none;	/*block*/
   position: absolute;
   top: 0;
   right: 0;
@@ -822,9 +822,12 @@ body.view-control-buttons .viewControlButton {
 .viewControlButton-4 {
   margin-left: 5px;
 }
+
+/*
 .viewControlButton-5 {
   margin-left: 55px;
 }
 .viewControlButton-6 {
   margin-left: 105px;
 }
+*/
