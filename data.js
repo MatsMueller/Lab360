@@ -674,10 +674,7 @@ var APP_DATA = {
 				  <p>Die Kalibrierung ist notwendig, um den Volumenkörper korrekt auszuwerten. Sie erfolgt, wenn das System mit Fluid gefüllt und in Ruhe ist. Das Untersuchungsvolumen kann beliebig gewählt werden. Im Folgenden wird der vom Flashlight LED ausgeleuchtete Bereich kalibriert. Die LED ist seitlich abgeschirmt, sodass das Licht gezielt in die Versuchsrinne geleitet wird.</p>
 				  
 				  <p>Die Kalibrierung beginnt mit der Aufnahme der Kalibrierplatte am vorderen Rand der LED. Danach erfolgen Aufnahmen im mittleren und hinteren Bereich. Die Kalibrierplatte wird an den Positionierhaltern fixiert und der Versatz in der Software vermerkt.</p>
-				  
-				  <p>In der DaVis-Software werden auf allen drei Aufnahmen die gleichen Punkte markiert, um eine korrekte Überlagerung der Bilder zu gewährleisten. Die Software identifiziert die vor- und zurückstehenden Bereiche auf der 3D-Kalibrierplatte und gibt zur Überprüfung der Kalibrierung Werte aus. Zusätzlich kann eine visuelle Überprüfung erfolgen, bei der alle drei Aufnahmen leicht transparent übereinandergelegt werden. Idealerweise befinden sich alle Marker exakt übereinander; bei Abweichungen muss die Kalibrierung wiederholt werden.</p>
-
-				
+				  			
 				<br> <!-- Leerzeile zwischen Text und Bildern -->
 				
 				<h3>Fotos zur Veranschaulichung</h3>
@@ -725,7 +722,7 @@ var APP_DATA = {
 				<br>
 				
 				<p style="font-weight: bold;">DaVis-Software</p>
-				<p>In der DaVis-Software werden auf allen drei Aufnahmen die gleichen Punkte markiert, um eine korrekte Überlagerung der Bilder zu gewährleisten. Die Software identifiziert die vor- und zurückstehenden Bereiche auf der 3D-Kalibrierplatte und gibt zur Überprüfung der Kalibrierung Werte aus. Zusätzlich kann eine visuelle Überprüfung erfolgen, bei der alle drei Aufnahmen leicht transparent übereinandergelegt werden. Idealerweise befinden sich alle Marker exakt übereinander; bei Abweichungen muss die Kalibrierung wiederholt werden.</p>
+				<p>In der DaVis-Software werden auf allen drei Aufnahmen die gleichen Punkte markiert, um eine korrekte Überlagerung der Bilder zu gewährleisten. Die Software identifiziert die vor- und zurückstehenden Bereiche auf der 3D-Kalibrierplatte und gibt zur Überprüfung der Kalibrierung Werte aus. Zusätzlich kann eine visuelle Überprüfung erfolgen, bei der alle drei Aufnahmen leicht transparent übereinandergelegt werden. Idealerweise befinden sich alle Marker exakt übereinander, bei Abweichungen muss die Kalibrierung wiederholt werden.</p>
 
 				<br>
 				
