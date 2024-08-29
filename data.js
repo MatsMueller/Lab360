@@ -892,6 +892,7 @@ var APP_DATA = {
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG11/DeltaH.jpg" 
 					 alt="Foto 1" 
 					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				<p style="font-style: italic; text-align: center;">Oberwasserstande: 27cm, Unterwasserstand:17 cm</p>
 			  </div>
 			`
 		}
