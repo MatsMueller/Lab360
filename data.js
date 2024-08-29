@@ -212,8 +212,8 @@ var APP_DATA = {
         {
           "yaw": -0.18417857770653256,
           "pitch": 0.34963154229233595,
-          "title": "Absperrhahn",
-          "text": "Dient zur Regelung des Durchflusses."
+          "title": "Kueglschieber",
+          "text": "Zufluss"
 
         }
       ]
@@ -268,8 +268,8 @@ var APP_DATA = {
         {
           "yaw": 0.3919764772017107,
           "pitch": 0.245620319226596,
-          "title": "Drosselgerät (Zufluss)",
-          "text": "Die Drossel regelt den gewünschten Abfluss, indem sie geöffnet oder geschlossen wird."
+          "title": "Drosselgerät",
+          "text": "Zufluss"
 
         }
       ]
@@ -657,8 +657,46 @@ var APP_DATA = {
           "yaw": -0.4736025876257859,
           "pitch": 0.009965083878100245,
           "title": "Versuchsdurchführung",
-          "text": "Dieser Computer ist für die Versuchsdurchführung mit dem MiniShaker-System der Firma LaVision. Das MiniShaker-System wurde für 3D-Strömungsmessungen entwickelt. Es ermöglicht hochpräzise Analysen von komplexen Strömungsphänomenen, insbesondere bei turbulenten Strömungen, durch den Einsatz von Tomographischer PIV und dem Shake-the-Box-Algorithmus. Mit der DaVis-Software von LaVision können 3D-Messungen durchgeführt werden."
-
+          "text": `
+			  <div>
+				<p>"Dieser Computer ist für die Versuchsdurchführung mit dem MiniShaker-System der Firma LaVision. Das MiniShaker-System wurde für 3D-Strömungsmessungen entwickelt. Es ermöglicht hochpräzise Analysen von komplexen Strömungsphänomenen, insbesondere bei turbulenten Strömungen, durch den Einsatz von Tomographischer PIV und dem Shake-the-Box-Algorithmus. Mit der DaVis-Software von LaVision können 3D-Messungen durchgeführt werden.</p>
+				
+				<br> <!-- Leerzeile zwischen Text und Bildern -->
+				
+				<h3>Fotos zur Veranschaulichung</h3>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/raw0.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Rohdaten</p>
+				
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/raw1.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Hintergrund entfernt/p>
+				
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/raw2.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Schwarzwertkorrektur</p>
+				
+				<br>
+				
+				<h3>Video zur Veranschaulichung</h3>
+				
+				<video controls loop style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				  <source src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/Movie1_k.mp4" type="video/mp4">
+				  Ihr Browser unterstützt das Video-Tag nicht.
+				</video>
+				<p style="font-style: italic; text-align: center;">Bahnlinien</p>
+				
+				<br>
+			  </div>
+		
         },
         {
           "yaw": 0.8771752486525468,
