@@ -152,7 +152,7 @@ var APP_DATA = {
           "yaw": -0.16276772691074726,
           "pitch": 0.07367256799197719,
           "title": "Kreislauf",
-          "text": "Pumpenleistung:<br>3 Pumpen mit einer Gesamtförderleistung von etwa 100 l/s:<br>1. und 2. Pumpe (gold): je 25 l/s<br>3. Pumpe (schwarz): 50 l/s<br><br>Die Versuchsrinne ist auf einer Unterkonstruktion aus Aluminiumträgern fixiert, wobei ihre Längs- und Querneigung nicht veränderbar ist. Wasser wird aus dem Tiefbecken (ca. 7 m³ Fassungsvolumen) in den Einströmbereich der Rinne gepumpt."
+          "text": "Pumpenleistung:<br>3 Pumpen mit einer Gesamtförderleistung von etwa 100 l/s:<br>1. und 2. Pumpe (gold): je 25 l/s<br>3. Pumpe (schwarz): 50 l/s<br><br>Die Versuchsrinne ist auf einer Unterkonstruktion aus Aluminiumträgern fixiert, wobei ihre Längs- und Querneigung nicht veränderbar ist. Das Wasser wird aus dem Tiefbecken (ca. 7 m³ Fassungsvolumen) in den Einströmbereich der Rinne gepumpt."
 		},
         {
           "yaw": 0.331591217024954,
@@ -212,8 +212,8 @@ var APP_DATA = {
         {
           "yaw": -0.18417857770653256,
           "pitch": 0.34963154229233595,
-          "title": "Kugelhahn",
-          "text": "Ein Kugelhahn ist eine Armatur mit einer durchbohrten Kugel als Absperrkörper und dient zur Regelung des Durchflusses."
+          "title": "Absperrhahn",
+          "text": "Dient zur Regelung des Durchflusses."
 
         }
       ]
@@ -269,7 +269,7 @@ var APP_DATA = {
           "yaw": 0.3919764772017107,
           "pitch": 0.245620319226596,
           "title": "Drosselgerät (Zufluss)",
-          "text": "Ein Drosselgerät regelt den gewünschten Abfluss, indem die Drossel geöffnet oder geschlossen wird."
+          "text": "Die Drossel regelt den gewünschten Abfluss, indem sie geöffnet oder geschlossen wird."
 
         }
       ]
@@ -621,8 +621,24 @@ var APP_DATA = {
           "yaw": 1.2357564357480655,
           "pitch": 0.24486265430516596,
           "title": "Durchflussmessung",
-          "text": "Der OPTIFLUX 2000 ist ein magnetisch-induktiver Messwertaufnehmer, der auf dem Faraday’schen Gesetz der elektromagnetischen Induktion basiert. Dieses Prinzip wird im Magnetisch-Induktiven Durchflussmesser (MID) angewendet, um den Durchfluss in ein elektrisches Signal umzuwandeln. In Verbindung mit dem Messumformer IFC 100 kann das Signal direkt angezeigt und zur weiteren Verarbeitung übertragen werden."
-        },
+          "text": `
+			  <div>
+				<p>Der OPTIFLUX 2000 ist ein magnetisch-induktiver Messwertaufnehmer, der auf dem Faraday’schen Gesetz der elektromagnetischen Induktion basiert. Dieses Prinzip wird im Magnetisch-Induktiven Durchflussmesser (MID) angewendet, um den Durchfluss in ein elektrisches Signal umzuwandeln. In Verbindung mit dem Messumformer IFC 100 kann das Signal direkt angezeigt und zur weiteren Verarbeitung übertragen werden.</p>
+				
+				<br> <!-- Leerzeile zwischen Text und Bildern -->
+				
+				<h3>Fotos zur Veranschaulichung</h3>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/IFC100.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/MID.jpg" 
+					 alt="Foto 2" 
+					 style="max-width: 100%; height: auto; display: block;">
+			  </div>
+			`
+		},
         {
           "yaw": 0.17600208121883476,
           "pitch": -0.0012144170302992308,
