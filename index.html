@@ -4,7 +4,12 @@
 <title>360-Grad-Tour</title>
 <meta charset="utf-8">
 <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
-<style> @-ms-viewport { width: device-width; } </style>
+<style> @-ms-viewport { width: device-width; }     
+	/* Unsichtbar machen der Buttons */
+    #autorotateToggle {
+        display: none;
+    }
+</style>
 <link rel="stylesheet" href="vendor/reset.min.css">
 <link rel="stylesheet" href="style.css">
 
@@ -94,13 +99,11 @@
   <h1 class="sceneName"></h1>
 </div>
 
-<!--
+
 <a href="javascript:void(0)" id="autorotateToggle">
   <img class="icon off" src="img/play.png">
   <img class="icon on" src="img/pause.png">
 </a>
--->
-
 
 <a href="javascript:void(0)" id="fullscreenToggle">
   <img class="icon off" src="img/fullscreen.png">
