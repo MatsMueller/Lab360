@@ -49,7 +49,7 @@ var APP_DATA = {
     },
     {
       "id": "1-img_01",
-      "name": "Versuchsstand – Gesamtansicht",
+      "name": "Gesamtansicht Versuch",
       "levels": [
         {
           "tileSize": 256,
@@ -276,7 +276,7 @@ var APP_DATA = {
     },
     {
       "id": "5-img_05",
-      "name": "MID – Durchflussmesser (Rohrleitung)",
+      "name": "MID (Rohrleitung)",
       "levels": [
         {
           "tileSize": 256,
@@ -332,7 +332,7 @@ var APP_DATA = {
     },
     {
       "id": "6-img_06",
-      "name": "Einlaufbereich (Versuchsrinne)",
+      "name": "Einlaufbereich",
       "levels": [
         {
           "tileSize": 256,
@@ -403,7 +403,7 @@ var APP_DATA = {
     },
     {
       "id": "7-img_07",
-      "name": "Beruhigungselemente (Versuchsrinne)",
+      "name": "Beruhigungselemente",
       "levels": [
         {
           "tileSize": 256,
@@ -476,7 +476,7 @@ var APP_DATA = {
     },
     {
       "id": "8-img_08",
-      "name": "MID – Durchflussmesser (Versuchsrinne)",
+      "name": "MID (Versuchsrinne)",
       "levels": [
         {
           "tileSize": 256,
@@ -524,7 +524,7 @@ var APP_DATA = {
     },
     {
       "id": "9-img_09",
-      "name": "Beruhigungsstrecke (Versuchsrinne)",
+      "name": "Beruhigungsstrecke",
       "levels": [
         {
           "tileSize": 256,
@@ -572,7 +572,7 @@ var APP_DATA = {
     },
     {
       "id": "10-img_10",
-      "name": "Arbeitsplatz (Versuchsrinne)",
+      "name": "Arbeitsplatz",
       "levels": [
         {
           "tileSize": 256,
@@ -647,7 +647,7 @@ var APP_DATA = {
     },
     {
       "id": "11-img_11",
-      "name": "Drosselorgan (Messung inaktiv)",
+      "name": "Drossel Messung inaktiv",
       "levels": [
         {
           "tileSize": 256,
@@ -751,7 +751,7 @@ var APP_DATA = {
     },
     {
       "id": "12-img_12",
-      "name": "Drosselorgan (Messung aktiv)",
+      "name": "Drossel Messung aktiv",
       "levels": [
         {
           "tileSize": 256,
@@ -848,7 +848,7 @@ var APP_DATA = {
     },
     {
       "id": "14-img_14",
-      "name": "Zulaufbereich (Auffangbehälter)",
+      "name": "Zulauf Auffangbehälter",
       "levels": [
         {
           "tileSize": 256,
@@ -916,7 +916,7 @@ var APP_DATA = {
     },
     {
       "id": "15-img_15",
-      "name": "Zulaufbereich (Tiefbecken)",
+      "name": "Zulauf Tiefbecken",
       "levels": [
         {
           "tileSize": 256,
@@ -963,7 +963,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "ProjectBlende",
+  "name": "360-Grad-Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
