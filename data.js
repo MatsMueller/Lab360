@@ -721,6 +721,33 @@ var APP_DATA = {
 					 alt="Foto 2" 
 					 style="max-width: 100%; height: auto; display: block;">
 				<p style="font-style: italic; text-align: center;">Draufsicht Hinten</p>
+				
+				<br>
+				
+				<p style="font-weight: bold;">DaVis-Software</p>
+				<p>In der DaVis-Software werden auf allen drei Aufnahmen die gleichen Punkte markiert, um eine korrekte Überlagerung der Bilder zu gewährleisten. Die Software identifiziert die vor- und zurückstehenden Bereiche auf der 3D-Kalibrierplatte und gibt zur Überprüfung der Kalibrierung Werte aus. Zusätzlich kann eine visuelle Überprüfung erfolgen, bei der alle drei Aufnahmen leicht transparent übereinandergelegt werden. Idealerweise befinden sich alle Marker exakt übereinander; bei Abweichungen muss die Kalibrierung wiederholt werden.</p>
+
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C1.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Frontansicht Hinten</p>
+				
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C2.jpg"
+					 alt="Foto 2" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Draufsicht Hinten</p>
+								
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C3.jpg"
+					 alt="Foto 2" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Draufsicht Hinten</p>
+				
 			  </div>
 			`
         }
