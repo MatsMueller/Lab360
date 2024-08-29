@@ -44,7 +44,7 @@ var APP_DATA = {
           "pitch": 0.1871037614146438,
           "title": "FH Aachen",
           "text": "Die Messsysteme der Firma LaVision wurden von der FH Aachen – University of Applied Sciences zur Verfügung gestellt.<br><br><strong>Ansprechpartner:</strong><br>PD Prof. Dr.-Ing. habil. Daniel Bung<br>Fachbereich Bauingenieurwesen – Wasserbau<br><a href='mailto:bung@fh-aachen.de'>bung@fh-aachen.de</a>"
-}
+		}
       ]
     },
     {
@@ -464,7 +464,7 @@ var APP_DATA = {
 				
 				<h3>Videos zur Veranschaulichung</h3>
 				
-				<video controls loop style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				<video controls loop style="max-width: 100%; height: auto; display: block;">
 				  <source src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG07/1.mp4" type="video/mp4">
 				  Ihr Browser unterstützt das Video-Tag nicht.
 				</video>
@@ -668,6 +668,14 @@ var APP_DATA = {
 				
 				<br> <!-- Leerzeile zwischen Text und Bildern -->
 				
+				<p>Nach der Kalibrierung werden die Blenden der vier Objektive individuell an die Umgebungshelligkeit und die Aufnahmerate angepasst.</p>
+				
+				<br>
+				
+				<p>Während der Versuchsdurchführung nehmen die vier Sensoren parallel auf. Im ersten Schritt werden die Rohdaten gesichtet. In der weiteren Verarbeitung wird der statische Hintergrund herausgefiltert und eine Korrektur der Schwarzwerte durchgeführt, um die einzelnen Partikel besser hervorzuheben. Es gibt zahlreiche Möglichkeiten, die Messdaten auszuwerten. Exemplarisch werden die Bahnlinien im Kontrollvolumen dargestellt.</p>
+
+				<br>
+				
 				<h3>Fotos zur Veranschaulichung</h3>
 				
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/raw0.jpg" 
@@ -680,7 +688,7 @@ var APP_DATA = {
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/raw1.jpg" 
 					 alt="Foto 1" 
 					 style="max-width: 100%; height: auto; display: block;">
-				<p style="font-style: italic; text-align: center;">Hintergrund entfernt/p>
+				<p style="font-style: italic; text-align: center;">Hintergrund entfernt</p>
 				
 				<br>
 				
@@ -693,7 +701,7 @@ var APP_DATA = {
 				
 				<h3>Video zur Veranschaulichung</h3>
 				
-				<video controls loop style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				<video controls loop style="max-width: 100%; height: auto; display: block;">
 				  <source src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/Movie1_k.mp4" type="video/mp4">
 				  Ihr Browser unterstützt das Video-Tag nicht.
 				</video>
