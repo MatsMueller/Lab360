@@ -212,7 +212,7 @@ var APP_DATA = {
         {
           "yaw": -0.18417857770653256,
           "pitch": 0.34963154229233595,
-          "title": "Kueglschieber",
+          "title": "Kugelschieber",
           "text": "Zufluss"
 
         }
