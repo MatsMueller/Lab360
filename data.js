@@ -732,21 +732,21 @@ var APP_DATA = {
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C1.jpg" 
 					 alt="Foto 1" 
 					 style="max-width: 100%; height: auto; display: block;">
-				<p style="font-style: italic; text-align: center;">Frontansicht Hinten</p>
+				<p style="font-style: italic; text-align: center;">Rohdaten</p>
 				
 				<br>
 				
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C2.jpg"
 					 alt="Foto 2" 
 					 style="max-width: 100%; height: auto; display: block;">
-				<p style="font-style: italic; text-align: center;">Draufsicht Hinten</p>
+				<p style="font-style: italic; text-align: center;">Kalibrierung</p>
 								
 				<br>
 				
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C3.jpg"
 					 alt="Foto 2" 
 					 style="max-width: 100%; height: auto; display: block;">
-				<p style="font-style: italic; text-align: center;">Draufsicht Hinten</p>
+				<p style="font-style: italic; text-align: center;">Überlagerung der Marker</p>
 				
 			  </div>
 			`
