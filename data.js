@@ -664,7 +664,7 @@ var APP_DATA = {
           "title": "Versuchsdurchführung",
           "text": `
 			  <div>
-				<p>"Dieser Computer ist für die Versuchsdurchführung mit dem MiniShaker-System der Firma LaVision. Das MiniShaker-System wurde für 3D-Strömungsmessungen entwickelt. Es ermöglicht hochpräzise Analysen von komplexen Strömungsphänomenen, insbesondere bei turbulenten Strömungen, durch den Einsatz von Tomographischer PIV und dem Shake-the-Box-Algorithmus. Mit der DaVis-Software von LaVision können 3D-Messungen durchgeführt werden.</p>
+				<p>Dieser Computer ist für die Versuchsdurchführung mit dem MiniShaker-System der Firma LaVision. Das MiniShaker-System wurde für 3D-Strömungsmessungen entwickelt. Es ermöglicht hochpräzise Analysen von komplexen Strömungsphänomenen, insbesondere bei turbulenten Strömungen, durch den Einsatz von Tomographischer PIV und dem Shake-the-Box-Algorithmus. Mit der DaVis-Software von LaVision können 3D-Messungen durchgeführt werden.</p>
 				
 				<br> <!-- Leerzeile zwischen Text und Bildern -->
 				
@@ -863,8 +863,32 @@ var APP_DATA = {
         {
           "yaw": 0.723598074304622,
           "pitch": 0.26684110147736284,
-          "title": "JETTitle",
-          "text": "JETText"
+          "title": "Wasserstrahl",
+          "text": `
+			  <div>
+				<p> Für diese Situation wurde das Wehr im Unterwasser entfernt. Der durch die Kontur der Drossel erzeugte Wasserstrahl ist sichtbar. Im rückgestauten Zustand bleibt der Strahl im Fluid jedoch unsichtbar.</p>
+				<br> 
+				<p>Die im System vorhandenen Partikel machen den Wasserstrahl für die Kamera erkennbar.</p>
+
+				
+				<br> <!-- Leerzeile zwischen Text und Bildern -->
+				
+				<h3>Foto zur Veranschaulichung</h3>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG11/Jet1.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				<p style="font-style: italic; text-align: center;">Seitenansicht</p>
+				
+				<br> 
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG11/Jet2.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+				<p style="font-style: italic; text-align: center;">Frontansicht</p>
+								
+			  </div>
+			`
         },
         {
           "yaw": 0.46751472163388996,
@@ -900,7 +924,7 @@ var APP_DATA = {
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG11/DeltaH.jpg" 
 					 alt="Foto 1" 
 					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
-				<p style="font-style: italic; text-align: center;">Oberwasserstande: 27cm, Unterwasserstand:17 cm</p>
+				<p style="font-style: italic; text-align: center;">Oberwasserstand: 27cm, Unterwasserstand:17 cm</p>
 			  </div>
 			`
 		}
