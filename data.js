@@ -726,21 +726,21 @@ var APP_DATA = {
 
 				<br>
 				
-				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C1.jpg" 
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C1.JPG" 
 					 alt="Foto 1" 
 					 style="max-width: 100%; height: auto; display: block;">
 				<p style="font-style: italic; text-align: center;">Rohdaten</p>
 				
 				<br>
 				
-				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C2.jpg"
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C2.JPG"
 					 alt="Foto 2" 
 					 style="max-width: 100%; height: auto; display: block;">
 				<p style="font-style: italic; text-align: center;">Kalibrierung</p>
 								
 				<br>
 				
-				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C3.jpg"
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/LV_C3.JPG"
 					 alt="Foto 2" 
 					 style="max-width: 100%; height: auto; display: block;">
 				<p style="font-style: italic; text-align: center;">Überlagerung der Marker</p>
