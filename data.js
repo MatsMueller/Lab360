@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-img_00",
-      "name": "IMG_00a",
+      "name": "Startseite",
       "levels": [
         {
           "tileSize": 256,
@@ -49,7 +49,7 @@ var APP_DATA = {
     },
     {
       "id": "1-img_01",
-      "name": "IMG_01",
+      "name": "Versuchsstand – Gesamtansicht",
       "levels": [
         {
           "tileSize": 256,
@@ -97,7 +97,7 @@ var APP_DATA = {
     },
     {
       "id": "2-img_02",
-      "name": "IMG_02",
+      "name": "Tiefbecken",
       "levels": [
         {
           "tileSize": 256,
@@ -164,7 +164,7 @@ var APP_DATA = {
     },
     {
       "id": "3-img_03",
-      "name": "IMG_03",
+      "name": "Pumpen (Rohrleitung)",
       "levels": [
         {
           "tileSize": 256,
@@ -220,7 +220,7 @@ var APP_DATA = {
     },
     {
       "id": "4-img_04",
-      "name": "IMG_04",
+      "name": "Drossel (Rohrleitung)",
       "levels": [
         {
           "tileSize": 256,
@@ -276,7 +276,7 @@ var APP_DATA = {
     },
     {
       "id": "5-img_05",
-      "name": "IMG_05",
+      "name": "MID – Durchflussmesser (Rohrleitung)",
       "levels": [
         {
           "tileSize": 256,
@@ -332,7 +332,7 @@ var APP_DATA = {
     },
     {
       "id": "6-img_06",
-      "name": "IMG_06",
+      "name": "Einlaufbereich (Versuchsrinne)",
       "levels": [
         {
           "tileSize": 256,
@@ -403,7 +403,7 @@ var APP_DATA = {
     },
     {
       "id": "7-img_07",
-      "name": "IMG_07",
+      "name": "Beruhigungselemente (Versuchsrinne)",
       "levels": [
         {
           "tileSize": 256,
@@ -476,7 +476,7 @@ var APP_DATA = {
     },
     {
       "id": "8-img_08",
-      "name": "IMG_08",
+      "name": "MID – Durchflussmesser (Versuchsrinne)",
       "levels": [
         {
           "tileSize": 256,
@@ -524,7 +524,7 @@ var APP_DATA = {
     },
     {
       "id": "9-img_09",
-      "name": "IMG_09",
+      "name": "Beruhigungsstrecke (Versuchsrinne)",
       "levels": [
         {
           "tileSize": 256,
@@ -572,7 +572,7 @@ var APP_DATA = {
     },
     {
       "id": "10-img_10",
-      "name": "IMG_10",
+      "name": "Arbeitsplatz (Versuchsrinne)",
       "levels": [
         {
           "tileSize": 256,
@@ -647,7 +647,7 @@ var APP_DATA = {
     },
     {
       "id": "11-img_11",
-      "name": "IMG_11",
+      "name": "Drosselorgan (Messung inaktiv)",
       "levels": [
         {
           "tileSize": 256,
@@ -751,7 +751,7 @@ var APP_DATA = {
     },
     {
       "id": "12-img_12",
-      "name": "IMG_12",
+      "name": "Drosselorgan (Messung aktiv)",
       "levels": [
         {
           "tileSize": 256,
@@ -800,7 +800,7 @@ var APP_DATA = {
     },
     {
       "id": "13-img_13",
-      "name": "IMG_13",
+      "name": "Wehr",
       "levels": [
         {
           "tileSize": 256,
@@ -848,7 +848,7 @@ var APP_DATA = {
     },
     {
       "id": "14-img_14",
-      "name": "IMG_14",
+      "name": "Zulaufbereich (Auffangbehälter)",
       "levels": [
         {
           "tileSize": 256,
@@ -916,7 +916,7 @@ var APP_DATA = {
     },
     {
       "id": "15-img_15",
-      "name": "IMG_15",
+      "name": "Zulaufbereich (Tiefbecken)",
       "levels": [
         {
           "tileSize": 256,
