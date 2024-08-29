@@ -664,8 +664,55 @@ var APP_DATA = {
           "yaw": 0.8771752486525468,
           "pitch": 0.5792707094893643,
           "title": "Kalibrierung",
-          "text": "Für präzise Messungen sind verschiedene Kalibrierungstargets und Verfahren zur Selbstkalibrierung verfügbar, die 3D- und stereoskopische Kalibrierungsfehler korrigieren. Funktionen umfassen automatische Markererkennung, Einzelbildkalibrierung und Kompensation starker Verzerrungen."
-
+          "text": `
+			  <div>
+				<p>Für präzise Messungen sind verschiedene Kalibrierungstargets und Verfahren zur Selbstkalibrierung verfügbar, die 3D- und stereoskopische Kalibrierungsfehler korrigieren. Funktionen umfassen automatische Markererkennung, Einzelbildkalibrierung und Kompensation starker Verzerrungen.</p>
+				
+				<br> <!-- Leerzeile zwischen Text und Bildern -->
+				
+				<h3>Fotos zur Veranschaulichung</h3>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/CP_1A.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Frontansicht Vorne</p>
+				
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/CP_1B.jpg"
+					 alt="Foto 2" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Draufsicht Vorne</p>
+				
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/CP_2A.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Frontansicht Mitte</p>
+				
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/CP_2B.jpg"
+					 alt="Foto 2" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Draufsicht Mitte</p>
+								
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/CP_3A.jpg" 
+					 alt="Foto 1" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Frontansicht Hinten</p>
+				
+				<br>
+				
+				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/CP_3B.jpg"
+					 alt="Foto 2" 
+					 style="max-width: 100%; height: auto; display: block;">
+				<p style="font-style: italic; text-align: center;">Draufsicht Hinten</p>
+			  </div>
+			`
         }
       ]
     },
