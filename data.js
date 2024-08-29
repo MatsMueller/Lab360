@@ -631,8 +631,10 @@ var APP_DATA = {
 				
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/IFC100.jpg" 
 					 alt="Foto 1" 
-					 style="max-width: 100%; height: auto; display: block; margin-bottom: 10px;">
+					 style="max-width: 100%; height: auto; display: block;">
 				<p style="font-style: italic; text-align: center;">IFC 100</p>
+				
+				<br>
 				
 				<img src="https://raw.githubusercontent.com/MatsMueller/Lab360/master/files/IMG10/MID.jpg" 
 					 alt="Foto 2" 
