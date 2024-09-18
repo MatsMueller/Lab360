@@ -666,9 +666,14 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
               visibility 0s 0.7s;
 }
 
+/* Diese Regel verbirgt den ursprünglichen Info-Hotspot-Text, wenn das Modal sichtbar ist */
+.info-hotspot-modal.visible + .info-hotspot .info-hotspot-text {
+    display: none; /* oder `visibility: hidden;` je nach Bedarf */
+}
+
 .info-hotspot-modal.visible {
   opacity: 1;
-  visibility: visible;
+  visibility: visible; 
   -webkit-transition: opacity 0.2s ease-in-out,
                       visibility 0s 0s;
   transition: opacity 0.2s ease-in-out,
