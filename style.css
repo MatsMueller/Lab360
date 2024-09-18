@@ -594,7 +594,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot .info-hotspot-text {
   position: absolute;
-  width: 300px;		
+  width: 300px;
   height: auto;
   max-height: 200px;
   top: 40px;
@@ -625,16 +625,6 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   -webkit-user-select: text;
   -ms-user-select: text;
   user-select: text;
-}
-
-/* Anpassung für größere Ansichten (Vollbildmodus) */
-@media screen and (min-width: 1024px) {
-  .info-hotspot .info-hotspot-text {
-    width: 70%; /* Vergrößert die Breite auf 70% des Bildschirms im Vollbildmodus */
-    max-width: 900px; /* Maximalbreite setzen, um die Box nicht zu groß werden zu lassen */
-    height: auto;
-    max-height: 400px; /* Erhöht die maximale Höhe im Vollbildmodus */
-    overflow-y: auto;
 }
 
 .desktop .info-hotspot.visible .info-hotspot-text {
@@ -805,7 +795,7 @@ body.view-control-buttons .viewControlButton {
 }
 
 /* Hide controls when width is too small */
-@media (max-width: 600px) {
+@media (max-width: 600px) { /* 600px */
   body.view-control-buttons .viewControlButton {
     display: none;
   }
