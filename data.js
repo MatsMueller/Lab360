@@ -214,7 +214,6 @@ var APP_DATA = {
           "pitch": 0.34963154229233595,
           "title": "Kugelschieber",
           "text": "Zufluss"
-
         }
       ]
     },
