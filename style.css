@@ -666,21 +666,23 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
               visibility 0s 0.7s;
 }
 
-/* Diese Regel verbirgt den ursprünglichen Info-Hotspot-Text, wenn das Modal sichtbar ist */
-.info-hotspot-modal.visible + .info-hotspot .info-hotspot-text {
-    display: none; /* oder `visibility: hidden;` je nach Bedarf */
-}
+
 
 .info-hotspot-modal.visible {
+  display: none; /* oder `visibility: hidden;` je nach Bedarf */
+/*
   opacity: 1;
   visibility: visible; 
   -webkit-transition: opacity 0.2s ease-in-out,
                       visibility 0s 0s;
   transition: opacity 0.2s ease-in-out,
               visibility 0s 0s;
+*/
 }
 
 .info-hotspot-modal .info-hotspot-header {
+  display: none; /* oder `visibility: hidden;` je nach Bedarf */
+/*
   position: absolute;
   top: 60px;
   left: 10px;
@@ -692,12 +694,16 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out 0.2s;
   transition: opacity 0.3s ease-in-out 0.2s;
+*/
 }
 
 .info-hotspot-modal.visible .info-hotspot-header {
+  display: none; /* oder `visibility: hidden;` je nach Bedarf */
+/*
   opacity: 1;
   -webkit-transition: opacity 0.3s ease-in-out 0.2s;
   transition: opacity 0.3s ease-in-out 0.2s;
+*/
 }
 
 .info-hotspot-modal .info-hotspot-icon-wrapper {
