@@ -645,7 +645,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 /* Info hotspot modal */
 
 .desktop .info-hotspot-modal {
-  display: none;
+  display: block; /*none*/
 }
 
 .info-hotspot-modal {
@@ -795,7 +795,7 @@ body.view-control-buttons .viewControlButton {
 }
 
 /* Hide controls when width is too small */
-@media (max-width: 600px) { /* 600px */
+@media (max-width: 600px) { 
   body.view-control-buttons .viewControlButton {
     display: none;
   }
